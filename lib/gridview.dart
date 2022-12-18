@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+void main()=>runApp(gridEx());
 class gridEx extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
